@@ -2,12 +2,13 @@ First-Year Computer Science Programming Project
 
 A Demo project about e-commerce and shopping mall desktop GUI simulation application developed with Python and SQLite.
 
-About The Project
-Shopping Mall XD is a desktop application simulating an online shopping mall system. It was developed to study and apply fundamental concepts of structured/functional programming, Graphical User Interface (GUI) design, and relational database integration.
+About this project :
+
+- Shopping Mall XD is a desktop application simulating an online shopping mall system. It was developed to study and apply fundamental concepts of structured/functional programming, Graphical User Interface (GUI) design, and relational database integration.
 
 The program handles the end-to-end shopping workflow—from user authentication and product browsing to automated checkout calculations, reward point accumulation, and transaction history tracking.
 
-Key Features
+Key Features :
 1. Member System
   - Reward Points: Automatically awards points upon completing purchases, updating member records in real time.
 2. Store & Promotions
